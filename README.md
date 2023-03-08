@@ -8,6 +8,7 @@ Food Delivery is an e-commerce platform that allows users to add, delete, purcha
 -   Configure and use Path mapping in Vite.js
 -   Get started with SOLID
 -   Improve in terms of Clean Code and BEM Architecture and Custom Hooks
+-   Apply the concept of Mobile First
 
 ### FEATURES
 
